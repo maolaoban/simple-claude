@@ -1,2 +1,6 @@
 # Config file with API key
 simple-claude-config.json
+
+/dist
+
+/node_modules

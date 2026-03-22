@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm build:*)",
+      "mcp__github__get_me",
+      "Bash(git commit:*)",
+      "mcp__github__create_repository",
+      "Bash(git remote:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
